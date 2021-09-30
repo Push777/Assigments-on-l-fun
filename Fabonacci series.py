@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
 
 num=int(input())
 first=0
@@ -14,16 +9,4 @@ for i in range(num):
     second=x+second
     
     
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
